@@ -1,0 +1,23 @@
+/* Style untuk kontainer h3 dan p */
+div h3,
+div p {
+  margin-bottom: 10px;
+
+}
+
+/* Style untuk h3 */
+h3 {
+  color: #3b3535; /* Warna biru contoh, sesuaikan dengan preferensi Anda */
+  font-size: 1.3em; /* Ukuran font h3 */
+}
+
+/* Style untuk strong di dalam h3 */
+h3 strong {
+  font-weight: bold;
+}
+
+/* Style untuk p */
+p {
+  color: #000000;
+  line-height: 1;
+}

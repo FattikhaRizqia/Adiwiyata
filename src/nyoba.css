@@ -1,0 +1,37 @@
+/* Reset default margin and padding */
+body, div, p, hr {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the container div */
+  div {
+    width: 80%; /* Adjust the width as needed */
+    margin: auto;
+  }
+  
+  /* Style the horizontal rule */
+  hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the navigation links */
+  .Link {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333; /* Change the color as needed */
+    font-weight: bold;
+    padding: 5px; /* Add padding to separate the text */
+  }
+  
+  /* Style the active link */
+  .Link.active {
+    color: #ff0000; /* Change the color for active link */
+  }
+  
+  /* Style the component paragraph */
+  p {
+    margin-top: 20px;
+  }
+  

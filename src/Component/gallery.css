@@ -1,0 +1,21 @@
+.gallery-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.gallery-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-caption {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+  margin-top: 15px; /* Sesuaikan dengan kebutuhan Anda */
+  margin-bottom: 15px; /* Sesuaikan dengan kebutuhan Anda */
+}
+
+

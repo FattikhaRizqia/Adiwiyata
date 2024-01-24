@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: #f8f9fa; /* Warna latar belakang */
+  background-image: linear-gradient(to right, #a8edea 0%, #0d693e 100%); /* Gradient warna latar belakang */
+  color: #333; /* Warna teks */
 }
 
 code {
